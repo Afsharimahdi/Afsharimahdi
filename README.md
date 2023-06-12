@@ -4,8 +4,6 @@ I am an Electrical Engineer with a Bachelor's degree and over four years of expe
 
 ## Skills
 
-- Advanced proficiency in English
-- Native speaker of Farsi and Azerbaijani
 - Machine Learning
 - Deep Learning
 - Artificial Intelligence
@@ -13,7 +11,8 @@ I am an Electrical Engineer with a Bachelor's degree and over four years of expe
 - Data Science
 - Data Analytics
 - Python
-
+- Native speaker of Farsi and Azerbaijani
+- Advanced proficiency in English
 ## Interests
 
 In my free time, I enjoy:
