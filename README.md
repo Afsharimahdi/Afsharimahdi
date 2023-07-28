@@ -12,7 +12,8 @@ I am an Electrical Engineer with a Bachelor's degree and over four years of expe
 - Data Analytics
 - Python
 - Native speaker of Farsi and Azerbaijani
-- Advanced proficiency in English
+- proficiency in English
+- proficiency in German
 ## Interests
 
 In my free time, I enjoy:
