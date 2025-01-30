@@ -5,6 +5,7 @@ I am an Electrical Engineer with a Bachelor's degree and over four years of expe
 ## Skills
 
 - Machine Learning
+- computer vision
 - Deep Learning
 - Power Electric
 - Python
