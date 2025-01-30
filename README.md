@@ -6,10 +6,7 @@ I am an Electrical Engineer with a Bachelor's degree and over four years of expe
 
 - Machine Learning
 - Deep Learning
-- Artificial Intelligence
 - Power Electric
-- Data Science
-- Data Analytics
 - Python
 - Native speaker of Farsi and Azerbaijani
 - proficiency in English
